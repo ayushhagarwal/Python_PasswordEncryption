@@ -1,4 +1,4 @@
-#### Python Project to encrypt and decrypt passwords
+#### Python Project to encrypt passwords
 
 ### Tecch Stack :
 
